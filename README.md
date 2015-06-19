@@ -1,6 +1,6 @@
 # My Restify Utility:
 Have extended the popular restify module to customize and enhance the communication experience for REST calls.
-The Utility takes `job` object as the input from the client where the end-point URL, options to be set for microservice calls are passed to AquaJS Restify. 
+The Utility takes `job` object as the input from the client where the end-point URL, options to be set for microservice calls are passed to VS Restify.
 
 The utility exposes 5 http operations for RESTful communication.
 ```
@@ -11,7 +11,7 @@ The utility exposes 5 http operations for RESTful communication.
 * patch
 ```
 
-####How to use AquaJs-Restify
+####How to use VS-Restify
 
 Use Case 1:
 For HTTP GET operation:
